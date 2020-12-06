@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+nav {
+    text-align: center;
+    background-color: #ecefe9ef;
+}
+
+#coins {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.media {
+    margin-right: 15px;
+}
+
+.mt-2 {
+    background-color: #96f41a;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+.container {
+    height: 300px;
+    padding: 0px;
+    width: 100%;
+}
+
